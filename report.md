@@ -130,16 +130,16 @@ fi
    ```bash
    ./reminder.sh
    ```  
-   > **Скриншот:** консоль с примером запуска и ввода данных.  
+![image](https://github.com/user-attachments/assets/a1bab26d-169c-4a3c-9141-f7121ae029e2)
+
 
 2. **Проверка запланированных задач:**  
    ```bash
    atq
    ```  
-   > **Скриншот:** список задач, запланированных командой `at`.  
+![image](https://github.com/user-attachments/assets/a4d6db9c-c725-43fc-8a75-f55a8d02ce2f)
+
 
 3. **Результат:**  
-   - Если доступно `notify-send`, всплывает уведомление.  
-     > **Скриншот:** пример графического уведомления.  
-   - Если уведомления недоступны, запись добавляется в `~/reminders.log`.  
-     > **Скриншот:** содержимое файла `~/reminders.log`.  
+![image](https://github.com/user-attachments/assets/fe149bbb-b237-4056-99b3-be2e85ba2b41)
+
